@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=java.util.ArrayList\ getPrimeFactorization(int)
+comment0.text=\r\n\ \ \ \ returns\ the\ prime\ factorization\ of\ m\r\n
+comment1.params=m\ n
+comment1.target=int\ get_GCD(int,\ int)
+comment2.params=m\ n
+comment2.target=int\ get_LCM(int,\ int)
+comment3.params=n
+comment3.target=java.lang.String\ toBinary(int)
+comment4.params=n
+comment4.target=java.lang.String\ toHexadecimal(int)
+comment5.params=hex
+comment5.target=java.lang.String\ hexadecimalToBinary(java.lang.String)
+comment6.params=bin
+comment6.target=int\ binaryToDecimal(java.lang.String)
+comment7.params=hex
+comment7.target=int\ hexadecimalToDecimal(java.lang.String)
+comment8.params=bin
+comment8.target=java.lang.String\ binaryToHexadecimal(java.lang.String)
+comment9.params=base\ exp\ mod
+comment9.target=int\ page246_algorithm_5_2_19(int,\ int,\ int)
+numComments=10

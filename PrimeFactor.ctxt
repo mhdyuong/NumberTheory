@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=v\ exp
+comment0.target=PrimeFactor(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ PrimeFactor\r\n
+comment1.params=
+comment1.target=int\ getExponent()
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=
+comment3.target=int\ hashCode()
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ \ \ This\ method\ is\ not\ tested\r\n
+numComments=6
